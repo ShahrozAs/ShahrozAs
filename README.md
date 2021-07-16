@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mr.sherry.793@gmail.com**
 
-- ⚡ Fun fact **I play games and making sketch.**
+- ⚡ Fun fact **I play games and making sketches.**
 
 ## 🚀 Languages and Tools:
 
