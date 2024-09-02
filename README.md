@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahroz</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Pakistan.</h3>
+<h3 align="center">I'm a passionate Asp.net Core Full Stack Developer from Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Web development]**
+- 🔭 I’m currently working on **Asp.net Core**
 
-- 🌱 I’m currently learning **object oriented programming.**
+- 🌱 I’m currently learning **Asp.net Core Concepts**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
